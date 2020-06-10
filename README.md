@@ -1,5 +1,5 @@
-# tcc
-Toxic comments classifier from scratch and pre-trained BERT embeddings using neural networks.
+# Toxic Comments Classifier: Multi-label classification (Using Neural Networks)
+Toxic comments classifier: BERT, Keras Raw Embeddings, Text Vectorization Layer in Model, Tensorflow Serving REST API.
 
 ## Notebook Explanation
 ### Objective
